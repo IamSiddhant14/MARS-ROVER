@@ -1,0 +1,38 @@
+#h{
+    margin-left: 45%;
+}
+
+.cont{
+    background-color: lightgray;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 400px;
+
+
+}
+
+#btn{
+
+    height: 50px;
+    width: 120px;
+    background-color: azure;
+    color: black;
+
+}
+
+#btn:hover{
+    box-shadow: 6px -11px 101px 55px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 6px -11px 101px 55px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px -11px 101px 55px rgba(0,0,0,0.75);
+}
+
+#input{
+    
+    height:40px;
+}
+
+#lower{
+    display: flex;
+    flex-wrap: wrap;
+}
